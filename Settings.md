@@ -16,6 +16,12 @@ Enables display of on-screen virtual controller pad.
 
 *(Android & iOS only)*
 
+### Dual Core
+
+Enabled display of "Dual Core Improve Performance.
+
+*(Android & iOS only)*
+
 ## Video Settings
 
 ### Enable High Resolution Mode
